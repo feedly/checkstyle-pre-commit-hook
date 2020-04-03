@@ -1,0 +1,8 @@
+- id: feedly-checkstyle
+  name: feedly-checkstyle
+  description: "run checkstyle"
+  entry: feedly-checkstyle
+  language: python
+  language_version: python3
+  require_serial: true
+  types: [python]
